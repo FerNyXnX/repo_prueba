@@ -5,3 +5,9 @@
     background-color: #000000;
     color: #ffffff;
 }
+
+.container {
+    max-width: 1024;
+    padding: 1rem;
+    margin: 0 auto;
+}
